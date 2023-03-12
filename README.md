@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects using mainly JS and PHP<br>👯 I’m looking to collaborate on Javascript or PHP Projects<br>🤝 I’m looking for help with C<br>🌱 I’m currently learning C and Python<br>💬 Ask me about me or any other thing at <br>phone : +2348140263264<br>email : isokandone@gmail.com<br>⚡ Fun fact : Roses are red...
+🔭 I’m currently working on projects using mainly JS and PHP<br>👯 I’m looking to collaborate on Javascript or PHP Projects<br>🤝 I’m looking for help with C<br>🌱 I’m currently learning C and Python<br>💬 Ask me about me or any other thing at <br> Phone : +2348140263264<br> Email : isokandone@gmail.com<br> Project : http://isokan.epizy.com<br>⚡ Fun fact : Roses are red...
 
 
 ## 🌐 Socials:
