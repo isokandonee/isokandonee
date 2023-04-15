@@ -1,3 +1,9 @@
+ ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+<h1 align="center">Mitchel Ogunniyi Github Profile</h1>
+<h3 align="center">An Experienced Full Stack Developer </h3>
+<img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isokandonee&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
 # 💫 About Me:
 🔭 I’m currently working on projects using mainly JS and PHP<br>👯 I’m looking to collaborate on Javascript or PHP Projects<br>🤝 I’m looking for help with C<br>🌱 I’m currently learning C and Python<br>💬 Ask me about me or any other thing at <br>⚡ Phone : +2348140263264<br>⚡ Email : isokandone@gmail.com<br>⚡ Project : http://isokan.epizy.com<br>⚡ Fun fact : Roses are red...
 
